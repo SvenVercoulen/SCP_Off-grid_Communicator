@@ -16,7 +16,7 @@ Magnetometer/kompas (bijv. QMC5883L)
 <br>
 Gyroscope + accelerometer (https://www.tinytronics.nl/en/sensors/acceleration-rotation/mpu-6050-accelerometer-and-gyroscope-3-axis-module-3.3v-5v)
 <br>
-Buzzer 
+Buzzer  (https://www.tinytronics.nl/en/audio/speakers/buzzers/passive-buzzer-3-12v-ac-2khz)
 <br>
 OLED-display (0.96" I2C)
 <br>
