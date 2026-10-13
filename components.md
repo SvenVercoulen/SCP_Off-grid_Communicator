@@ -19,6 +19,11 @@ Buzzer  (https://www.tinytronics.nl/en/audio/speakers/buzzers/passive-buzzer-3-1
 OLED-display (https://www.tinytronics.nl/en/displays/oled/rakwireless-rak1921-wisblock-oled-display-ssd1306-0.96-inch)
 <br>
 Behuizing (3d print?)
-
+<br>
+Jumper wires Male - Female (https://www.tinytronics.nl/en/cables-and-connectors/cables-and-adapters/prototyping-wires/dupont-compatible-and-jumper/dupont-jumper-wire-male-female-20cm-10-wires)
+<br>
+Jumper wires Female - Female (https://www.tinytronics.nl/en/cables-and-connectors/cables-and-adapters/prototyping-wires/dupont-compatible-and-jumper/dupont-jumper-wire-female-female-20cm-10-wires)
+<br>
+Jumper wires Male - Male (https://www.tinytronics.nl/en/cables-and-connectors/cables-and-adapters/prototyping-wires/dupont-compatible-and-jumper/dupont-jumper-wire-male-male-20cm-10-wires)
 
 
