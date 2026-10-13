@@ -16,11 +16,9 @@ Gyroscope + accelerometer (https://www.tinytronics.nl/en/sensors/acceleration-ro
 <br>
 Buzzer  (https://www.tinytronics.nl/en/audio/speakers/buzzers/passive-buzzer-3-12v-ac-2khz)
 <br>
-OLED-display (https://www.tinytronics.nl/en/displays/oled/rakwireless-rak1921-wisblock-oled-display-ssd1306-0.96-inch)
+OLED-display (https://www.tinytronics.nl/en/displays/oled/2.08-inch-oled-display-256*64-pixels-blue-i2c)
 <br>
 Behuizing (3d print?)
-<br>
-Jumper wires Male - Female (https://www.tinytronics.nl/en/cables-and-connectors/cables-and-adapters/prototyping-wires/dupont-compatible-and-jumper/dupont-jumper-wire-male-female-20cm-10-wires)
 <br>
 Jumper wires Female - Female (https://www.tinytronics.nl/en/cables-and-connectors/cables-and-adapters/prototyping-wires/dupont-compatible-and-jumper/dupont-jumper-wire-female-female-20cm-10-wires)
 <br>
