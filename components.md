@@ -2,7 +2,7 @@ Keyboard (https://www.tinytronics.nl/en/development-boards/microcontroller-board
 <br>
 Breadboard (https://www.conrad.nl/nl/p/velleman-breadboard-grijs-totaal-aantal-polen-400-l-x-b-x-h-82-x-8-x-55-mm-1-stuk-s-2574925.html)
 <br>
-Power supply (IDK)
+(5v ontbreekt) Power supply (3.7V !!!)  (https://www.tinytronics.nl/nl/power/batterijen/li-po/pkcell-li-po-batterij-3.7v-2000mah-jst-ph-lp803860)
 <br>
 Cables
 <br>
